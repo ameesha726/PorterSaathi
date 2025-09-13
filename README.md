@@ -1,4 +1,4 @@
-# PorterSaathi
+<img width="1872" height="845" alt="image" src="https://github.com/user-attachments/assets/9e4f3005-1adf-43eb-a2ce-dde06db3ba37" /># PorterSaathi
 
 ## Overview
 Many driver-partners face challenges due to limited literacy, making everyday tasks like reading instructions or understanding updates difficult. **Porter Saathi** is an AI voice-first assistant designed to bridge this gap and empower users.
@@ -24,3 +24,4 @@ Many driver-partners face challenges due to limited literacy, making everyday ta
 
 **Deployment**
 The project is deployed on vercel.
+https://porter-saathi-etwh.vercel.app/
