@@ -1,2 +1,26 @@
 # PorterSaathi
-Many driver-partners face challenges due to limited literacy, making tasks like reading instructions or updates difficult. Porter Saathi is an AI voice-first assistant built with React (Vite), Google Gemini API, and TTS, enabling voice interactions in English/Hindi to bridge the literacy gap and empower users.
+
+## Overview
+Many driver-partners face challenges due to limited literacy, making everyday tasks like reading instructions or understanding updates difficult. **Porter Saathi** is an AI voice-first assistant designed to bridge this gap and empower users.
+
+## Features
+- Voice-first assistant: Interact using voice commands.
+- Real-time answers in **English** and **Hindi**.
+- Converts text-based information into conversational voice interactions.
+- Modern, responsive UI for seamless accessibility.
+
+## Tech Stack
+- **Frontend:** React (Vite)
+- **AI / NLP:** Google Gemini API
+- **Voice Interaction:** Text-to-Speech (TTS)
+- **Deployment / Hosting:** vercel
+
+## Usage
+1. Clone the repository
+2.Install dependencies:
+  npm install
+3.Start the development server:
+  npm run dev
+
+**Deployment**
+The project is deployed on vercel.
